@@ -1,0 +1,14 @@
+C:\Users\polis\Desktop\AngelSix\Projects\Video_9_Tic Tac Toe\Video_9_Tic Tac Toe\bin\Debug\Video_9_Tic Tac Toe.exe.config
+C:\Users\polis\Desktop\AngelSix\Projects\Video_9_Tic Tac Toe\Video_9_Tic Tac Toe\bin\Debug\Video_9_Tic Tac Toe.exe
+C:\Users\polis\Desktop\AngelSix\Projects\Video_9_Tic Tac Toe\Video_9_Tic Tac Toe\bin\Debug\Video_9_Tic Tac Toe.pdb
+C:\Users\polis\Desktop\AngelSix\Projects\Video_9_Tic Tac Toe\Video_9_Tic Tac Toe\obj\Debug\Video_9_Tic Tac Toe.csprojResolveAssemblyReference.cache
+C:\Users\polis\Desktop\AngelSix\Projects\Video_9_Tic Tac Toe\Video_9_Tic Tac Toe\obj\Debug\MainWindow.g.cs
+C:\Users\polis\Desktop\AngelSix\Projects\Video_9_Tic Tac Toe\Video_9_Tic Tac Toe\obj\Debug\App.g.cs
+C:\Users\polis\Desktop\AngelSix\Projects\Video_9_Tic Tac Toe\Video_9_Tic Tac Toe\obj\Debug\Video_9_Tic Tac Toe_MarkupCompile.cache
+C:\Users\polis\Desktop\AngelSix\Projects\Video_9_Tic Tac Toe\Video_9_Tic Tac Toe\obj\Debug\Video_9_Tic Tac Toe_MarkupCompile.lref
+C:\Users\polis\Desktop\AngelSix\Projects\Video_9_Tic Tac Toe\Video_9_Tic Tac Toe\obj\Debug\MainWindow.baml
+C:\Users\polis\Desktop\AngelSix\Projects\Video_9_Tic Tac Toe\Video_9_Tic Tac Toe\obj\Debug\Video_9_Tic Tac Toe.g.resources
+C:\Users\polis\Desktop\AngelSix\Projects\Video_9_Tic Tac Toe\Video_9_Tic Tac Toe\obj\Debug\Video_9_Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\polis\Desktop\AngelSix\Projects\Video_9_Tic Tac Toe\Video_9_Tic Tac Toe\obj\Debug\Video_9_Tic Tac Toe.csproj.GenerateResource.Cache
+C:\Users\polis\Desktop\AngelSix\Projects\Video_9_Tic Tac Toe\Video_9_Tic Tac Toe\obj\Debug\Video_9_Tic Tac Toe.exe
+C:\Users\polis\Desktop\AngelSix\Projects\Video_9_Tic Tac Toe\Video_9_Tic Tac Toe\obj\Debug\Video_9_Tic Tac Toe.pdb

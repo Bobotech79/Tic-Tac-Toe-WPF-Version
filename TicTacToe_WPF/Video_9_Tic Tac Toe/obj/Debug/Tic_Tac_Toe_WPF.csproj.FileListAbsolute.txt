@@ -1,0 +1,6 @@
+C:\Users\polis\Desktop\AngelSix\Projects\Video_9_Tic Tac Toe\Video_9_Tic Tac Toe\obj\Debug\MainWindow.g.cs
+C:\Users\polis\Desktop\AngelSix\Projects\Video_9_Tic Tac Toe\Video_9_Tic Tac Toe\obj\Debug\App.g.cs
+C:\Users\polis\Desktop\AngelSix\Projects\Video_9_Tic Tac Toe\Video_9_Tic Tac Toe\obj\Debug\Video_9_Tic Tac Toe_MarkupCompile.cache
+C:\Users\polis\Desktop\AngelSix\Projects\Video_9_Tic Tac Toe\Video_9_Tic Tac Toe\obj\Debug\Video_9_Tic Tac Toe_MarkupCompile.lref
+C:\Users\polis\Desktop\AngelSix\Projects\Video_9_Tic Tac Toe\Video_9_Tic Tac Toe\obj\Debug\Video_9_Tic Tac Toe.exe
+C:\Users\polis\Desktop\AngelSix\Projects\Video_9_Tic Tac Toe\Video_9_Tic Tac Toe\obj\Debug\Video_9_Tic Tac Toe.pdb
